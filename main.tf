@@ -8,7 +8,7 @@ locals {
     username = "admin"
     password = "TopSecret915!"           
     
-    snapshot_identifier = "arn:aws:rds:eu-central-1:824543128771:snapshot:awsbackup:job-3157581c-d5fe-972b-4731-3038a09600e9"  
+    snapshot_identifier = null 
 }
 
 resource "aws_db_instance" "rds1" {
