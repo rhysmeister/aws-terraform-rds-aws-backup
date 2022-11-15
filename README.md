@@ -47,4 +47,8 @@ terraform destroy
 # TODO
 
 * Add Parameter store values for endpoint, username and password.
+<<<<<<< HEAD
 * ~~version of module with continuous backup.~~
+=======
+* ~~version of module with continuous backup.~~
+>>>>>>> 171e63b71c6ab55ef5eca34a5f381b5f3931c81f

@@ -1,5 +1,5 @@
 resource "aws_kms_key" "rds_kms" {
-    description             = "KMS key for RDS Backups to RDS"
+    description             = "KMS key for RDS Backups"
     deletion_window_in_days = 7
 }
 
